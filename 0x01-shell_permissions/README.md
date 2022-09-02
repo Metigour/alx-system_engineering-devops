@@ -1,1 +1,1 @@
-Directories
+Owner and group
